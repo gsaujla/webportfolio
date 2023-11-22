@@ -1,0 +1,24 @@
+main{
+    text-align: center;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-size: 40px;
+    margin-top: 18%;
+     
+}
+
+section{
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+
+}
+.centercap{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.giticon{
+    height: 2%;
+}
+
