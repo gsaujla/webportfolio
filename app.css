@@ -6,9 +6,13 @@
 }
 .git{
     color: white;
+    
 }
 
-
+.dot{
+    color: #02c39a;
+    
+}
  nav{
     text-align: center;
     font-family: 'Oswald', sans-serif;
@@ -28,30 +32,67 @@
     margin-left: 1rem;
  }
 
- 
- 
+section{
+    margin-top: 1%;
+    padding-left: 20px;
+   
+}
+.me{
+    margin-left: 40%;
+} 
+img{
+    height: 200px;
+    width: 200px;
+    margin-top: -5%;
+}
+
+.cardaboutme{
+    margin-top: 20%;
+    width: 18rem;
+    height: 25rem;
+    padding: 10px;
+    border: 1px solid gray;
+    margin-left: 12%;
+    border-radius: 30px;
+    text-align: center;
+    font-size: large;
+    color: whitesmoke;
+    font-family: 'Roboto Mono', monospace;
+}
+.abtme{
+    margin-top: 12%;
+}
+.para{
+    font-size: medium;
+    text-align: justify;
+    margin-top: 20%;
+    padding-left: 4%;
+    padding-right: 4%;
+}
+
 .hw{
-    margin-top: 14%;
-    margin-left: 3%;
     font-family: 'Noto Sans JP', sans-serif;
-    font-size: 2.5rem;
+    font-size: 3rem;
     color: white;
 }
 .intro{
     font-family: 'Noto Sans JP', sans-serif;
-    font-size: 3rem;
-    margin-left: 3%;
-    margin-top: -1%;
-    margin-bottom: -1%;
+    font-size: 3.5rem;
+    
+    margin-top: -3%;
+    margin-bottom: -3%;
     color: white;
 }
 #dev{
     font-family: 'Noto Sans JP', sans-serif;
-    font-size: 2.8rem;
-    margin-left: 3%;
+    font-size: 3.3rem;
+    
     color: white;
 }
 body{
   background-color: #202020;
     color: white;
+}
+.card{
+    background-color: #202020;
 }
