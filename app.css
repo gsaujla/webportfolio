@@ -3,10 +3,14 @@
 }
 .gm{
     color: #02c39a;
+    filter: drop-shadow(0 0 2px #02c39a);
 }
 .git{
     color: white;
     
+}
+img{
+    filter: drop-shadow(0 0 40px black);
 }
 
 .dot{
@@ -47,6 +51,7 @@ img{
 }
 
 .cardaboutme{
+    
     margin-top: 20%;
     width: 18rem;
     height: 25rem;
